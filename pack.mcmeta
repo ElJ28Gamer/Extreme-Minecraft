@@ -1,0 +1,16 @@
+{
+    "pack":{
+        "pack_format": 81,
+        "description": "PERMADEATH"
+    },
+    "filter":{
+        "block":[{
+            "namespace": "minecraft",
+            "path": "recipe/ender_chest.json"
+            },
+            {"namespace": "minecraft",
+            "path": "recipe/netherite"
+            }
+        ]
+    }
+}
