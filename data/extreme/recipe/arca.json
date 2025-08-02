@@ -1,0 +1,10 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "zxz",
+        "xyx",
+        "zxz"
+    ],
+    "key": {"x":{"item":"copper_block"},"y":{"item":"breeze_rod"},"z":{"item":"trial_key"}},
+    "result": {"id": "vault", "count": 1}
+}

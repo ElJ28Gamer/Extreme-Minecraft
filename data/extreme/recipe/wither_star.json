@@ -1,0 +1,10 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "xxx",
+        "yyy",
+        "xzx"
+    ],
+    "key": {"z":{"item":"netherite_ingot"},"y":{"item":"wither_skeleton_skull"}, "x":{"item":"glowstone"}},
+    "result": {"id": "nether_star", "count": 1}
+}

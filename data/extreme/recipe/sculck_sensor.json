@@ -1,0 +1,10 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "   ",
+        "yyy",
+        "xxx"
+    ],
+    "key": {"x":{"item":"sculk"},"y":{"item":"sculk_vein"}},
+    "result": {"id": "sculk_sensor", "count": 1}
+}

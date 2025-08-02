@@ -1,0 +1,10 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "yyy",
+        "xzx",
+        "yyy"
+    ],
+    "key": {"x":{"item":"quartz"},"y":{"item":"netherite_ingot"}, "z":{"item":"nether_star"}},
+    "result": {"id": "netherite_block", "count": 1}
+}
